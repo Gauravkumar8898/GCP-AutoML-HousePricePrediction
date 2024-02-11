@@ -1,0 +1,8 @@
+.idea/*
+src/managed_dataset/__pycache__/__init__.cpython-38.pyc
+src/managed_dataset/__pycache__/dataset_handle.cpython-38.pyc
+src/pipeline/__pycache__/__init__.cpython-38.pyc
+src/pipeline/__pycache__/house_price_prediction_pipeline.cpython-38.pyc
+src/utils/__pycache__/__init__.cpython-38.pyc
+src/utils/__pycache__/constant.cpython-38.pyc
+
